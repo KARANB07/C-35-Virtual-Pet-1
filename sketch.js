@@ -30,7 +30,7 @@ function draw() {
   strokeWeight()
   stroke("red");
 
-  text("Food Remaining:" + foodS, 250,480);
+  text("Food Remaining:" + foodS, 250,400);
 }
 
 function readStock(data){
